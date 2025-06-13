@@ -1,8 +1,13 @@
-LOLCODE PROGRAM
+## LOLCODE PROGRAM
 
-Author: Alissha Mae Cardona
+# Developer 
+Alissha Mae Cardona
 
-PREREQUISITES:
+## Screenshot
+![image](https://github.com/user-attachments/assets/11baa2d8-91ac-4c2f-b6af-87b893580ef2)
+
+
+## PREREQUISITES:
 
 1. Make sure to have the latest version of python installed. 
 
