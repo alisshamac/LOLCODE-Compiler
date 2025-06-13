@@ -16,8 +16,11 @@ Alissha Mae Cardona
     Otherwise, you may download from their official site: https://www.python.org/downloads/
 
 2. Import the necessary packages and modules
+
+```
     pip install tkinter
     pip install regex
+```
 
 
 HOW TO USE THE PROGRAM:
