@@ -26,7 +26,9 @@ HOW TO USE THE PROGRAM:
 2. Choose a .lol file or create your own through the left most text box under the file text box
 3. Execute your finished LOLCODE by clicking the execute button and witness its actions through the biggest text box serving as the terminal
 
+### Note
 
+The compiler is a functional prototype with for LOLCODE features. Some functions and mechanisms are still under development.
 
 
 
